@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @111lan
-- 👀 I’m interested in somewhat coding.
-- 📫 Reach to me on discord, lan 1337
+outdated
 
 <!---
 111lan/111lan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
